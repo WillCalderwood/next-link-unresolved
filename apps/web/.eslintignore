@@ -1,0 +1,6 @@
+/jest.config.ts
+/jest.setup.js
+/next.config.js
+/tailwind.config.js
+/postcss.config.js
+**/AuthProvider.js
